@@ -13,7 +13,7 @@ description: "Ph.D. student in Economics at The University of Hong Kong."
 
 # GitHub Pages
 url: "https://xiyizhuang.github.io"
-baseurl: "/hyde/"
+baseurl: "/PhD-Blog/"
 
 # Blog
 paginate: 5
